@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;*/
+}
+
+.verLine {
+    border-right: 6px blueviolet;
+    border-left:  6px blueviolet;
+    border-style:double;
+    height: 500px;
+  }
